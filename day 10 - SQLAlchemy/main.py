@@ -20,3 +20,17 @@ from services import *
 
 # Delete Data
 # delete_post(2)
+
+# Order By
+# print(get_users_ordered_by_name())
+# print(get_posts_latest_first())
+
+# Group By
+# print(get_post_count_per_user())
+
+# join
+# print(get_posts_with_author())
+
+# raw sql queries
+# raw_sql_insert()
+# print(raw_sql_example())
